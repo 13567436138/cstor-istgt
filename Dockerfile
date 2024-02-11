@@ -1,1 +1,1 @@
-FROM openebs/cstor-istgt:2.12.2
+FROM openebs/cstor-istgt:3.6.0
